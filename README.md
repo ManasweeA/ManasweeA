@@ -42,11 +42,16 @@
 </p> 
 
 # Github Stats
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ManasweeA&theme=blue-green&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safir72347&layout=compact&count_private=true&theme=blue-green&show_icons=true" />
-</p>
-
+<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=ManasweeA&theme=blue-green&show_icons=true">
+    </td>
+    <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safir72347&layout=compact&count_private=true&theme=blue-green&show_icons=true" />
+    </td>
+  </tr>
+</table>
 
 <!--
 **ManasweeA/ManasweeA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

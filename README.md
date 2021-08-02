@@ -48,10 +48,14 @@
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=ManasweeA&theme=blue-green&show_icons=true">
     </td>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safir72347&layout=compact&count_private=true&theme=blue-green&show_icons=true" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManasweeA&layout=compact&count_private=true&theme=blue-green&show_icons=true" />
     </td>
   </tr>
 </table>
+
+# Visitors
+
+<img src="https://profile-counter.glitch.me/ManasweeA/count.svg" />
 
 <!--
 **ManasweeA/ManasweeA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

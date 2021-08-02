@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Manaswee Adwant
+# About
+<p>I am a fervent technical girl persistently engaged in exploring and developing applications by building ground breaking codes. I have completed my BTech in Information Technology from MIT School of Engineering. I have recently won a Hackathon in AI/ML track organized by DSC WoW. </p>
 
 <!--
 **ManasweeA/ManasweeA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

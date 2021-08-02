@@ -33,7 +33,7 @@
 </p>
 <br>
 
-# Technologies I'm working on:
+# I'm currently learning:
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -44,7 +44,7 @@
 # Github Stats
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ManasweeA&theme=blue-green&show_icons=true">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safir72347&layout=compact&count_private=true&theme=blue-green&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safir72347&layout=compact&count_private=true&theme=blue-green&show_icons=true" />
 </p>
 
 

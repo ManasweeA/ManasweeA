@@ -1,3 +1,4 @@
+<p>
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Manaswee Adwant 
 <a href="mailto:manaswee25445@gmail.com">
     <img align="right" alt="ManasweeA | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
@@ -8,6 +9,8 @@
 <a href="https://github.com/ManasweeA">
     <img align="right" alt="ManasweeA | Github" width="26px" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" />
 </a>
+</p>
+
 # About
 <p>I am a fervent technical girl persistently engaged in exploring and developing applications by building ground breaking codes. I have completed my BTech in Information Technology from MIT School of Engineering. I have recently won a Hackathon in AI/ML track organized by DSC WoW. </p>
 

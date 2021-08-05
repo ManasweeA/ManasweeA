@@ -1,6 +1,6 @@
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Manaswee Adwant
-<p>I am a fervent technical girl persistently engaged in exploring and developing applications by building ground breaking codes. I have completed my BTech in Information Technology from MIT School of Engineering. I have recently won a Hackathon in AI/ML track organized by DSC WoW. </p>
+<p>I am a fervent technical girl persistently engaged in exploring and developing applications by building ground breaking codes. I have completed my BTech in Information Technology from MIT School of Engineering. I have recently won a Hackathon in AI/ML track organized by Google DSC WoW. </p>
 
 <br>
 
@@ -40,6 +40,7 @@
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img src ="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white">
+<img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">    
 </p> 
 <br>

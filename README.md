@@ -16,7 +16,7 @@
 </a>
 <br><br>
 
-# Techologies 
+# Technologies 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -35,7 +35,7 @@
 </p>
 <br>
 
-# I'm currently learning:
+# I'm currently learning
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
